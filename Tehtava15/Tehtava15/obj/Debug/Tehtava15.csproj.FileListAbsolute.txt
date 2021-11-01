@@ -1,0 +1,10 @@
+C:\Users\lauri.savopirtti\source\repos\Tehtava15\Tehtava15\bin\Debug\Tehtava15.exe.config
+C:\Users\lauri.savopirtti\source\repos\Tehtava15\Tehtava15\bin\Debug\Tehtava15.exe
+C:\Users\lauri.savopirtti\source\repos\Tehtava15\Tehtava15\bin\Debug\Tehtava15.pdb
+C:\Users\lauri.savopirtti\source\repos\Tehtava15\Tehtava15\obj\Debug\Tehtava15.csprojAssemblyReference.cache
+C:\Users\lauri.savopirtti\source\repos\Tehtava15\Tehtava15\obj\Debug\Tehtava15.SekkariForm.resources
+C:\Users\lauri.savopirtti\source\repos\Tehtava15\Tehtava15\obj\Debug\Tehtava15.Properties.Resources.resources
+C:\Users\lauri.savopirtti\source\repos\Tehtava15\Tehtava15\obj\Debug\Tehtava15.csproj.GenerateResource.cache
+C:\Users\lauri.savopirtti\source\repos\Tehtava15\Tehtava15\obj\Debug\Tehtava15.csproj.CoreCompileInputs.cache
+C:\Users\lauri.savopirtti\source\repos\Tehtava15\Tehtava15\obj\Debug\Tehtava15.exe
+C:\Users\lauri.savopirtti\source\repos\Tehtava15\Tehtava15\obj\Debug\Tehtava15.pdb
