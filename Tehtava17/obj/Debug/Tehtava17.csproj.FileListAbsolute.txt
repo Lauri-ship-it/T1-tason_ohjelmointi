@@ -1,0 +1,10 @@
+C:\Users\lauri.savopirtti\source\repos\Tehtava17\Tehtava17\bin\Debug\Tehtava17.exe.config
+C:\Users\lauri.savopirtti\source\repos\Tehtava17\Tehtava17\bin\Debug\Tehtava17.exe
+C:\Users\lauri.savopirtti\source\repos\Tehtava17\Tehtava17\bin\Debug\Tehtava17.pdb
+C:\Users\lauri.savopirtti\source\repos\Tehtava17\Tehtava17\obj\Debug\Tehtava17.csprojAssemblyReference.cache
+C:\Users\lauri.savopirtti\source\repos\Tehtava17\Tehtava17\obj\Debug\Tehtava17.notepadFORM.resources
+C:\Users\lauri.savopirtti\source\repos\Tehtava17\Tehtava17\obj\Debug\Tehtava17.Properties.Resources.resources
+C:\Users\lauri.savopirtti\source\repos\Tehtava17\Tehtava17\obj\Debug\Tehtava17.csproj.GenerateResource.cache
+C:\Users\lauri.savopirtti\source\repos\Tehtava17\Tehtava17\obj\Debug\Tehtava17.csproj.CoreCompileInputs.cache
+C:\Users\lauri.savopirtti\source\repos\Tehtava17\Tehtava17\obj\Debug\Tehtava17.exe
+C:\Users\lauri.savopirtti\source\repos\Tehtava17\Tehtava17\obj\Debug\Tehtava17.pdb
