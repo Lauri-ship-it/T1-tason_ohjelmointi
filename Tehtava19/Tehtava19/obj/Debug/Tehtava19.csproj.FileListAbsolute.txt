@@ -1,0 +1,10 @@
+C:\Users\lauri.savopirtti\source\repos\Tehtava19\Tehtava19\bin\Debug\Tehtava19.exe.config
+C:\Users\lauri.savopirtti\source\repos\Tehtava19\Tehtava19\bin\Debug\Tehtava19.exe
+C:\Users\lauri.savopirtti\source\repos\Tehtava19\Tehtava19\bin\Debug\Tehtava19.pdb
+C:\Users\lauri.savopirtti\source\repos\Tehtava19\Tehtava19\obj\Debug\Tehtava19.csprojAssemblyReference.cache
+C:\Users\lauri.savopirtti\source\repos\Tehtava19\Tehtava19\obj\Debug\Tehtava19.ruokalistaFORM.resources
+C:\Users\lauri.savopirtti\source\repos\Tehtava19\Tehtava19\obj\Debug\Tehtava19.Properties.Resources.resources
+C:\Users\lauri.savopirtti\source\repos\Tehtava19\Tehtava19\obj\Debug\Tehtava19.csproj.GenerateResource.cache
+C:\Users\lauri.savopirtti\source\repos\Tehtava19\Tehtava19\obj\Debug\Tehtava19.csproj.CoreCompileInputs.cache
+C:\Users\lauri.savopirtti\source\repos\Tehtava19\Tehtava19\obj\Debug\Tehtava19.exe
+C:\Users\lauri.savopirtti\source\repos\Tehtava19\Tehtava19\obj\Debug\Tehtava19.pdb

@@ -1,0 +1,10 @@
+C:\Users\lauri.savopirtti\source\repos\Tehtävä13\Tehtävä13\bin\Debug\Tehtävä13.exe.config
+C:\Users\lauri.savopirtti\source\repos\Tehtävä13\Tehtävä13\bin\Debug\Tehtävä13.exe
+C:\Users\lauri.savopirtti\source\repos\Tehtävä13\Tehtävä13\bin\Debug\Tehtävä13.pdb
+C:\Users\lauri.savopirtti\source\repos\Tehtävä13\Tehtävä13\obj\Debug\Tehtävä13.csprojAssemblyReference.cache
+C:\Users\lauri.savopirtti\source\repos\Tehtävä13\Tehtävä13\obj\Debug\Tehtävä13.Form1.resources
+C:\Users\lauri.savopirtti\source\repos\Tehtävä13\Tehtävä13\obj\Debug\Tehtävä13.Properties.Resources.resources
+C:\Users\lauri.savopirtti\source\repos\Tehtävä13\Tehtävä13\obj\Debug\Tehtävä13.csproj.GenerateResource.cache
+C:\Users\lauri.savopirtti\source\repos\Tehtävä13\Tehtävä13\obj\Debug\Tehtävä13.csproj.CoreCompileInputs.cache
+C:\Users\lauri.savopirtti\source\repos\Tehtävä13\Tehtävä13\obj\Debug\Tehtävä13.exe
+C:\Users\lauri.savopirtti\source\repos\Tehtävä13\Tehtävä13\obj\Debug\Tehtävä13.pdb

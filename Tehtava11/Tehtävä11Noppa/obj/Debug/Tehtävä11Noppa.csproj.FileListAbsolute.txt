@@ -1,0 +1,10 @@
+C:\Users\lauri.savopirtti\source\repos\Tehtävä11Noppa\Tehtävä11Noppa\obj\Debug\Tehtävä11Noppa.csprojAssemblyReference.cache
+C:\Users\lauri.savopirtti\source\repos\Tehtävä11Noppa\Tehtävä11Noppa\obj\Debug\Tehtävä11Noppa.Form1.resources
+C:\Users\lauri.savopirtti\source\repos\Tehtävä11Noppa\Tehtävä11Noppa\obj\Debug\Tehtävä11Noppa.Properties.Resources.resources
+C:\Users\lauri.savopirtti\source\repos\Tehtävä11Noppa\Tehtävä11Noppa\obj\Debug\Tehtävä11Noppa.csproj.GenerateResource.cache
+C:\Users\lauri.savopirtti\source\repos\Tehtävä11Noppa\Tehtävä11Noppa\obj\Debug\Tehtävä11Noppa.csproj.CoreCompileInputs.cache
+C:\Users\lauri.savopirtti\source\repos\Tehtävä11Noppa\Tehtävä11Noppa\bin\Debug\Tehtävä11Noppa.exe.config
+C:\Users\lauri.savopirtti\source\repos\Tehtävä11Noppa\Tehtävä11Noppa\bin\Debug\Tehtävä11Noppa.exe
+C:\Users\lauri.savopirtti\source\repos\Tehtävä11Noppa\Tehtävä11Noppa\bin\Debug\Tehtävä11Noppa.pdb
+C:\Users\lauri.savopirtti\source\repos\Tehtävä11Noppa\Tehtävä11Noppa\obj\Debug\Tehtävä11Noppa.exe
+C:\Users\lauri.savopirtti\source\repos\Tehtävä11Noppa\Tehtävä11Noppa\obj\Debug\Tehtävä11Noppa.pdb

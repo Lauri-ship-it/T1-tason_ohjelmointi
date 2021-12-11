@@ -1,0 +1,10 @@
+C:\Users\lauri.savopirtti\source\repos\CtoF\CtoF\bin\Debug\CtoF.exe.config
+C:\Users\lauri.savopirtti\source\repos\CtoF\CtoF\bin\Debug\CtoF.exe
+C:\Users\lauri.savopirtti\source\repos\CtoF\CtoF\bin\Debug\CtoF.pdb
+C:\Users\lauri.savopirtti\source\repos\CtoF\CtoF\obj\Debug\CtoF.csprojAssemblyReference.cache
+C:\Users\lauri.savopirtti\source\repos\CtoF\CtoF\obj\Debug\CtoF.Form1.resources
+C:\Users\lauri.savopirtti\source\repos\CtoF\CtoF\obj\Debug\CtoF.Properties.Resources.resources
+C:\Users\lauri.savopirtti\source\repos\CtoF\CtoF\obj\Debug\CtoF.csproj.GenerateResource.cache
+C:\Users\lauri.savopirtti\source\repos\CtoF\CtoF\obj\Debug\CtoF.csproj.CoreCompileInputs.cache
+C:\Users\lauri.savopirtti\source\repos\CtoF\CtoF\obj\Debug\CtoF.exe
+C:\Users\lauri.savopirtti\source\repos\CtoF\CtoF\obj\Debug\CtoF.pdb

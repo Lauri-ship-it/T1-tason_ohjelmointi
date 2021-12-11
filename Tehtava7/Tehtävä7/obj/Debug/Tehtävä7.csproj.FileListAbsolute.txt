@@ -1,0 +1,10 @@
+C:\Users\lauri.savopirtti\source\repos\Tehtävä7\Tehtävä7\bin\Debug\Tehtävä7.exe.config
+C:\Users\lauri.savopirtti\source\repos\Tehtävä7\Tehtävä7\bin\Debug\Tehtävä7.exe
+C:\Users\lauri.savopirtti\source\repos\Tehtävä7\Tehtävä7\bin\Debug\Tehtävä7.pdb
+C:\Users\lauri.savopirtti\source\repos\Tehtävä7\Tehtävä7\obj\Debug\Tehtävä7.csprojAssemblyReference.cache
+C:\Users\lauri.savopirtti\source\repos\Tehtävä7\Tehtävä7\obj\Debug\Tehtävä7.Form1.resources
+C:\Users\lauri.savopirtti\source\repos\Tehtävä7\Tehtävä7\obj\Debug\Tehtävä7.Properties.Resources.resources
+C:\Users\lauri.savopirtti\source\repos\Tehtävä7\Tehtävä7\obj\Debug\Tehtävä7.csproj.GenerateResource.cache
+C:\Users\lauri.savopirtti\source\repos\Tehtävä7\Tehtävä7\obj\Debug\Tehtävä7.csproj.CoreCompileInputs.cache
+C:\Users\lauri.savopirtti\source\repos\Tehtävä7\Tehtävä7\obj\Debug\Tehtävä7.exe
+C:\Users\lauri.savopirtti\source\repos\Tehtävä7\Tehtävä7\obj\Debug\Tehtävä7.pdb

@@ -1,0 +1,10 @@
+C:\Users\lauri.savopirtti\source\repos\Tehtävä8\Tehtävä8\bin\Debug\Tehtävä8.exe.config
+C:\Users\lauri.savopirtti\source\repos\Tehtävä8\Tehtävä8\bin\Debug\Tehtävä8.exe
+C:\Users\lauri.savopirtti\source\repos\Tehtävä8\Tehtävä8\bin\Debug\Tehtävä8.pdb
+C:\Users\lauri.savopirtti\source\repos\Tehtävä8\Tehtävä8\obj\Debug\Tehtävä8.csprojAssemblyReference.cache
+C:\Users\lauri.savopirtti\source\repos\Tehtävä8\Tehtävä8\obj\Debug\Tehtävä8.Form1.resources
+C:\Users\lauri.savopirtti\source\repos\Tehtävä8\Tehtävä8\obj\Debug\Tehtävä8.Properties.Resources.resources
+C:\Users\lauri.savopirtti\source\repos\Tehtävä8\Tehtävä8\obj\Debug\Tehtävä8.csproj.GenerateResource.cache
+C:\Users\lauri.savopirtti\source\repos\Tehtävä8\Tehtävä8\obj\Debug\Tehtävä8.csproj.CoreCompileInputs.cache
+C:\Users\lauri.savopirtti\source\repos\Tehtävä8\Tehtävä8\obj\Debug\Tehtävä8.exe
+C:\Users\lauri.savopirtti\source\repos\Tehtävä8\Tehtävä8\obj\Debug\Tehtävä8.pdb

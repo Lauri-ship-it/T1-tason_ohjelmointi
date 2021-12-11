@@ -1,0 +1,10 @@
+C:\Users\lauri.savopirtti\source\repos\BMILaskinTehtävä9\BMILaskinTehtävä9\bin\Debug\BMILaskinTehtävä9.exe.config
+C:\Users\lauri.savopirtti\source\repos\BMILaskinTehtävä9\BMILaskinTehtävä9\bin\Debug\BMILaskinTehtävä9.exe
+C:\Users\lauri.savopirtti\source\repos\BMILaskinTehtävä9\BMILaskinTehtävä9\bin\Debug\BMILaskinTehtävä9.pdb
+C:\Users\lauri.savopirtti\source\repos\BMILaskinTehtävä9\BMILaskinTehtävä9\obj\Debug\BMILaskinTehtävä9.csprojAssemblyReference.cache
+C:\Users\lauri.savopirtti\source\repos\BMILaskinTehtävä9\BMILaskinTehtävä9\obj\Debug\BMILaskinTehtävä9.Form1.resources
+C:\Users\lauri.savopirtti\source\repos\BMILaskinTehtävä9\BMILaskinTehtävä9\obj\Debug\BMILaskinTehtävä9.Properties.Resources.resources
+C:\Users\lauri.savopirtti\source\repos\BMILaskinTehtävä9\BMILaskinTehtävä9\obj\Debug\BMILaskinTehtävä9.csproj.GenerateResource.cache
+C:\Users\lauri.savopirtti\source\repos\BMILaskinTehtävä9\BMILaskinTehtävä9\obj\Debug\BMILaskinTehtävä9.csproj.CoreCompileInputs.cache
+C:\Users\lauri.savopirtti\source\repos\BMILaskinTehtävä9\BMILaskinTehtävä9\obj\Debug\BMILaskinTehtävä9.exe
+C:\Users\lauri.savopirtti\source\repos\BMILaskinTehtävä9\BMILaskinTehtävä9\obj\Debug\BMILaskinTehtävä9.pdb
