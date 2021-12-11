@@ -1,0 +1,10 @@
+C:\Users\Lauri\source\repos\Tehtava18\Tehtava18\bin\Debug\Tehtava18.exe.config
+C:\Users\Lauri\source\repos\Tehtava18\Tehtava18\bin\Debug\Tehtava18.exe
+C:\Users\Lauri\source\repos\Tehtava18\Tehtava18\bin\Debug\Tehtava18.pdb
+C:\Users\Lauri\source\repos\Tehtava18\Tehtava18\obj\Debug\Tehtava18.csproj.AssemblyReference.cache
+C:\Users\Lauri\source\repos\Tehtava18\Tehtava18\obj\Debug\Tehtava18.AvainhenkilotFORM.resources
+C:\Users\Lauri\source\repos\Tehtava18\Tehtava18\obj\Debug\Tehtava18.Properties.Resources.resources
+C:\Users\Lauri\source\repos\Tehtava18\Tehtava18\obj\Debug\Tehtava18.csproj.GenerateResource.cache
+C:\Users\Lauri\source\repos\Tehtava18\Tehtava18\obj\Debug\Tehtava18.csproj.CoreCompileInputs.cache
+C:\Users\Lauri\source\repos\Tehtava18\Tehtava18\obj\Debug\Tehtava18.exe
+C:\Users\Lauri\source\repos\Tehtava18\Tehtava18\obj\Debug\Tehtava18.pdb
