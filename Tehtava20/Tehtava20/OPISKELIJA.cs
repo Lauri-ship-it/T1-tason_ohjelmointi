@@ -54,8 +54,8 @@ namespace Tehtava20
         public bool muokkaaOpiskelijaa(int oid, String enimi, String snimi, String puh, String email, int onro)
         {
             MySqlCommand komento = new MySqlCommand();
-            String paivityskysely = "UPDATE 'yhteystiedot' SET 'Etunimi'= @enm," +
-                "'Sukunimi'= @snm, 'puhelin'= @puh,'sahkoposti'= @eml,'opiskelijanumero'= @ono" +
+            String paivityskysely = "UPDATE 'yhteystiedot' SET 'etunimi'= @enm," +
+                "'sukunimi'= @snm, 'puhelin'= @puh,'sahkoposti'= @eml,'opiskelijanumero'= @ono" +
                 " WHERE oid = @oid";
             komento.CommandText = paivityskysely;
             komento.Connection = yhteys.otaYhteys();
