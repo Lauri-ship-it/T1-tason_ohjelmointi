@@ -1,5 +1,0 @@
-C:\Users\lauri.savopirtti\source\repos\Tehtävä 5\Tehtävä 5\Tehtävä 5\obj\Debug\Tehtävä 5.csprojAssemblyReference.cache
-C:\Users\lauri.savopirtti\source\repos\Tehtävä 5\Tehtävä 5\Tehtävä 5\obj\Debug\Tehtävä_5.Lukujenjarjestys.resources
-C:\Users\lauri.savopirtti\source\repos\Tehtävä 5\Tehtävä 5\Tehtävä 5\obj\Debug\Tehtävä_5.Properties.Resources.resources
-C:\Users\lauri.savopirtti\source\repos\Tehtävä 5\Tehtävä 5\Tehtävä 5\obj\Debug\Tehtävä 5.csproj.GenerateResource.cache
-C:\Users\lauri.savopirtti\source\repos\Tehtävä 5\Tehtävä 5\Tehtävä 5\obj\Debug\Tehtävä 5.csproj.CoreCompileInputs.cache
